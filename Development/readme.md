@@ -3,5 +3,5 @@ https://www.chromium.org/chromium-os/
 
 Library: https://www.chromium.org/chromium-os/developer-library/guides/
 
-Guide:
-- https://www.chromium.org/chromium-os/developer-library/guides/development/developer-guide/
+# Guide:
+- [ChromiumOS Developer Guide](https://www.chromium.org/chromium-os/developer-library/guides/development/developer-guide/)
