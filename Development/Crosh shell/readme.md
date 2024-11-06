@@ -7,3 +7,8 @@ help_advanced
 
 shell
 ```
+
+# Install Developer Tools
+```
+sudo dev_install
+```
