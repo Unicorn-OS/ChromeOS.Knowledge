@@ -1,4 +1,6 @@
 # Developer Console
+This allows you to login as root.
+
 ## on Boot: Ctrl + Alt + Refersh (F5)
 First press Ctrl+D on first boot screen. Then hold "Ctrl + Alt + Refresh. This will put you in a Developer Console.
 
