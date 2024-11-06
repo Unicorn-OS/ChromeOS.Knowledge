@@ -4,3 +4,6 @@ Home:
 # Hardware Requirements:
 https://www.chromium.org/chromium-os/developer-library/getting-started/hardware-requirements/
 - A USB-to-Ethernet adapter if the DUT does not have an Ethernet port.
+
+# Development Environment
+https://www.chromium.org/chromium-os/developer-library/getting-started/development-environment/
