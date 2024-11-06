@@ -1,5 +1,7 @@
 # Home:
-https://www.chromium.org/chromium-os/developer-library/guides/
+https://www.chromium.org/chromium-os/
+
+Library: https://www.chromium.org/chromium-os/developer-library/guides/
 
 # Doc:
 https://www.chromium.org/chromium-os/developer-library/guides/debugging/debugging-features/
