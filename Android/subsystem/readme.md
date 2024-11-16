@@ -1,0 +1,1 @@
+- [Android subsystem and apps won't open #1844](https://github.com/sebanc/brunch/issues/1844)
