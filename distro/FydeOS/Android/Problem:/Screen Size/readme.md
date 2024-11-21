@@ -5,3 +5,6 @@ sch:
 # Discuss:
 - [Playstore looks like the phone version of it (zoomed and big) and the apps too!](https://community.fydeos.io/t/topic/24375)
 - https://www.reddit.com/r/FydeOS/comments/16mqjh6/scaling_of_android_apps/
+
+# Solution:
+https://www.aboutchromebooks.com/news/how-to-change-the-zoom-levels-in-android-apps-on-a-chromebook-for-easier-reading/
