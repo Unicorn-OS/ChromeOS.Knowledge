@@ -1,4 +1,5 @@
 sch:
+- https://www.google.com/search?q=fydeos+android+screen+resolution
 - https://www.google.com/search?q=fydeos+android+screen+size
 - https://www.google.com/search?q=fydeos+android+apps+too+big
 
