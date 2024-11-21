@@ -1,3 +1,6 @@
-https://fydeos.io/
+# Home:
+website: https://fydeos.io/
 
-https://en.wikipedia.org/wiki/FydeOS
+source: https://github.com/FydeOS
+
+wiki: https://en.wikipedia.org/wiki/FydeOS
