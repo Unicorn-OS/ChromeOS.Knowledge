@@ -11,4 +11,4 @@
 >I suppose sharing the volume/folder with Linux will not expose enough access for your purposes.
 
 # Feature Request:
-https://issuetracker.google.com/issues/260278133?pli=1
+## [Allow passing external storage from USB or SD card slot fully to use with format/partitioning tools in Crostini.](https://issuetracker.google.com/issues/260278133?pli=1)
