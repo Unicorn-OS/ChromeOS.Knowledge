@@ -9,3 +9,6 @@
 >2. You can only share individual folders currently
 >
 >I suppose sharing the volume/folder with Linux will not expose enough access for your purposes.
+
+# Feature Request:
+https://issuetracker.google.com/issues/260278133?pli=1
