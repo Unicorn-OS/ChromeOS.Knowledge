@@ -7,4 +7,5 @@
 >The above feature, when implemented would address these two aspects:
 >1. Try to fully access an external drive or SD Card.
 >2. You can only share individual folders currently
+>
 >I suppose sharing the volume/folder with Linux will not expose enough access for your purposes.
