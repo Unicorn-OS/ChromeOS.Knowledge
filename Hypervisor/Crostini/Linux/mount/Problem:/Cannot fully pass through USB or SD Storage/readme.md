@@ -12,3 +12,6 @@
 
 # Feature Request:
 ## [Allow passing external storage from USB or SD card slot fully to use with format/partitioning tools in Crostini.](https://issuetracker.google.com/issues/260278133?pli=1)
+
+# Solution:
+- [Aug 5, 2023 Mount Block Devices in ChromeOS](https://shibumi.dev/posts/mount-block-devices-in-chromeos/)
