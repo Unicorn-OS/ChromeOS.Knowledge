@@ -10,3 +10,10 @@ Search:
 # Guide:
 - https://www.customonline.com/tech-insights/11-unexpected-ways-to-manage-chromebook-files/
 - https://www.xda-developers.com/how-quick-access-files-chromebook/
+
+# Steps:
+>1. Open the Files app.
+>2. Locate the folder you want to bookmark.
+>3. Right-click (or hold Alt and click) on the folder.
+>4. Select Pin folder from the drop-down menu.
+- This has been changed to "Search Key" instead of Alt key, and click.
