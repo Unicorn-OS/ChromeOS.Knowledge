@@ -1,4 +1,7 @@
 Search:
+- https://www.google.com/search?q=Chromebook+Files+Pin+Folder
+- https://www.google.com/search?q=Chromebook+Files+Pin+Folder+external+drive
+- https://www.google.com/search?q=Chromebook+Files+Pin+Folder+external+storage
 - https://www.google.com/search?q=Chromebook+Files+Pin+to+shelf
 - https://www.google.com/search?q=Chromebook+Files+Pin+to+shelf+external+drive
 - https://www.google.com/search?q=Chromebook+Files+app+%22pinning%22+feature
