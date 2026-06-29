@@ -4,3 +4,4 @@ Search:
 
 # Guide:
 - https://www.customonline.com/tech-insights/11-unexpected-ways-to-manage-chromebook-files/
+- https://www.xda-developers.com/how-quick-access-files-chromebook/
