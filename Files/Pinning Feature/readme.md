@@ -16,4 +16,4 @@ Search:
 >2. Locate the folder you want to bookmark.
 >3. Right-click (or hold Alt and click) on the folder.
 >4. Select Pin folder from the drop-down menu.
-- This has been changed to "Search Key" instead of Alt key, and click.
+- This has been updated to "[Search Key](https://support.google.com/chromebook/answer/14805853?visit_id=639183374452878351-2962823367&p=keyboard_settings&rd=1)" instead of Alt key, and click.
