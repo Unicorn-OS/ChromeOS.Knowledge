@@ -13,12 +13,16 @@ Works:
 sudo su
 passwd
 passwd <user>
+
 # remove file
 sudo rm /etc/ssh/sshd_not_meant_to_be_run
-ensure these lines are activated in the server config file /etc/ssh/sshd_config:
+sudo rm sshd_not_to_be_run
+
+# ensure these lines are activated in the server config file /etc/ssh/sshd_config:
 AllowAgentForwarding yes
 AllowTcpForwarding yes
 Port 1088 # (arbitrary, anything above 1024, port 22 and 2222 are banned for ssh)
+
 # => In Chrome OS settings add port 1088 (Linux forwarding) and activate it
 sudo systemctl start ssh
 sudo systemctl enable ssh
