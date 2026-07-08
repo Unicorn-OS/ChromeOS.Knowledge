@@ -27,6 +27,9 @@ Port 1088 # (arbitrary, anything above 1024, port 22 and 2222 are banned for ssh
 sudo systemctl start ssh
 sudo systemctl enable ssh
 
+# Reload Configuration
+sudo systemctl reload ssh
+
 # maybe restart and connect from outside machine:
 ssh -p 1088 <user>@<chromeOS-IP\_notLinuxContainerIP>
 # The IP address is not the IP of the container but of the Chromebook, like f.i.
