@@ -1,2 +1,2 @@
 # Crosh -- The ChromiumOS shell
-https://www.chromium.org/chromium-os/developer-library/reference/device/crosh/0
+https://www.chromium.org/chromium-os/developer-library/reference/device/crosh/
