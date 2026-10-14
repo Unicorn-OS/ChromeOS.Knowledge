@@ -7,3 +7,5 @@ vmc list
 
 vmc destroy termina
 ```
+
+# 3. [ChromeOS Install Crostini via command line](https://www.google.com/search?q=ChromeOS+Install+Crostini+via+command+line)
